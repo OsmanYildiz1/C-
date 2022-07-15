@@ -19,7 +19,7 @@ namespace Classislemleri
             // mutlak deger
             float bir = 10f;
             float iki = 2f; 
-            Console.WriteLine("10'un 2. kuvveti tanımı " + Math.Pow(bir,iki)); // ilk sorunun alternatif çözümü
+            Console.WriteLine("10'un 2. kuvveti  " + Math.Pow(bir,iki)); // ilk sorunun alternatif çözümü
             Console.WriteLine("10'un 2. kuvveti "+ Math.Pow(10f, 2));
             Console.WriteLine("en küçük değer " + Math.Min(20,0));
             Console.WriteLine("mutlak değer " + Math.Abs(-25.4));
