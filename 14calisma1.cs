@@ -3,8 +3,7 @@
 namespace calismaicin
 {
     class Program
-    {   
-        // switch case örneği önemli enum kullanımı ve random fonksiyonu var
+    {  
         enum Islemler   // enum yapısı liste oluşturma gibidir
         {
             Toplama =1,
