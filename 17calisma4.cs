@@ -31,7 +31,7 @@ namespace calismaiçin4
             Console.WriteLine();
             sehirler.ForEach(s => Console.WriteLine(s));
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
 
         private static void Degistir(ref int a, ref int b) // referanslar değişiklikleri sıfırlamadan işlemlere devam eder. adrese göre calısır.
